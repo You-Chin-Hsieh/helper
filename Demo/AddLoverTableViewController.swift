@@ -3,7 +3,7 @@
 //  Demo
 //
 //  Created by Peter Pan on 20/12/2016.
-//  Copyright © 2016 Peter Pan. All rights reserved.
+//  Copyright © 2016 Peter  All rights reserved.
 //
 
 import UIKit
@@ -20,6 +20,7 @@ class AddLoverTableViewController: UITableViewController {
         var strDate = dateFormatter.string(from: DatePicker.date)
         self.myDatePickerLabel.text = strDate
         timeText=strDate
+        //dfadsfasdfsadfasdfsdfasd
     }
     @IBOutlet weak var other: UITextView!
     //@IBOutlet weak var Caga: UIPickerView!
