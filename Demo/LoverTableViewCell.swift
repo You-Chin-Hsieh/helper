@@ -2,8 +2,8 @@
 //  LoverTableViewCell.swift
 //  Demo
 //
-//  Created by Peter Pan on 20/12/2016.
-//  Copyright © 2016 Peter Pan. All rights reserved.
+//  Created by Peter  on 20/12/2016.
+//  Copyright © 2016 Peter . All rights reserved.
 //
 
 import UIKit
